@@ -22,7 +22,7 @@ export const subjectColors = {
       math: [{ title: "Математика 1 класс", author: "", file: "", img: "" }],
       kyrg: [{ title: "Кыргыз тили 1 класс", author: "", file: "", img: "" }],
       reading: [{ title: "Чтение 1 класс", author: "", file: "", img: "" }],
-      // world_around: [{ title: "Я и мир 1 класс", author: "", file: "", img: "" }]
+       world_around: [{ title: "Я и мир 1 класс", author: "", file: "", img: "" }]
     },
     2: {
       math: [{ title: "Математика 2 класс", author: "", file: "", img: "" }],
