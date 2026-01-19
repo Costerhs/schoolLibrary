@@ -28,7 +28,7 @@ export const subjectColors = {
       math: [{ title: "Математика 2 класс", author: "", file: "", img: "" }],
       kyrg: [{ title: "Кыргыз тили 2 класс", author: "", file: "", img: "" }],
       reading: [{ title: "Литература 2 класс", author: "", file: "", img: "" }],
-      // world_around: [{ title: "Я и мир 2 класс", author: "", file: "", img: "" }]
+       world_around: [{ title: "Я и мир 2 класс", author: "", file: "", img: "" }]
     },
     3: {
       math: [{ title: "Математика 3 класс", author: "", file: "", img: "" }],
